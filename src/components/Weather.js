@@ -88,16 +88,6 @@ function Weather() {
                     </div>
                 )}
 
-                {/* <div className='credit'>
-                    <p className='my-name'>Developed by <a href="https://arpanneupane.com" target="__blank">Arpan Neupane</a></p>
-                </div><br></br>
-
-                <div className='recents'>
-                    <Link to='/recents' style={{ textDecoration: 'none', color: '#fff', fontSize: '1.2em' }}>View Recent Searches</Link>
-                </div> */}
-
-
-
 
 
             </main>
